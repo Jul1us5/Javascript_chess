@@ -1,8 +1,8 @@
 .lenta { 
     display: inline-block;
-    width: 84vmin;
-    height: 84vmin;
-    margin: 8vmin calc(50% - 42vmin);
+    width: 100vmin;
+    height: 100vmin;
+    margin: 0vmin calc(50% - 50vmin);
     border: 2px solid black;
     float: left;
 }
