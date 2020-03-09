@@ -1,8 +1,8 @@
 .lenta { 
     display: inline-block;
-    width: 90vmin;
-    height: 90vmin;
-    margin: 5vmin calc(50% - 45vmin);
+    width: 80vmin;
+    height: 80vmin;
+    margin: 10vmin calc(50% - 45vmin);
     border: 2px solid black;
     float: left;
 }
@@ -13,7 +13,6 @@
     }
     .lenta > .eilutes > .stulpeliai {
         display: inline-block;
-        width: 12.5%;
         height: 100%;
         float: left;
     }
