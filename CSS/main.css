@@ -6,9 +6,9 @@ body {
 
 .lenta { 
     display: inline-block;
-    width: 84vmin;
-    height: 84vmin;
-    margin: 8vmin calc(50% - 42vmin);
+    width: 90vmin;
+    height: 90vmin;
+    margin: 5vmin calc(50% - 45vmin);
     border: 2px solid black;
     float: left;
 }
