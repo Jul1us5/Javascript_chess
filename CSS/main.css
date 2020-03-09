@@ -1,0 +1,19 @@
+.lenta { 
+    display: inline-block;
+    width: 84vmin;
+    height: 84vmin;
+    margin: 8vmin calc(50% - 42vmin);
+    border: 2px solid black;
+    float: left;
+}
+    .lenta > .eilutes {
+        display: inline-block;
+        width: 100%;
+        float: left;
+    }
+    .lenta > .eilutes > .stulpeliai {
+        display: inline-block;
+        width: 12.5%;
+        height: 100%;
+        float: left;
+    }
